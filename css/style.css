@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+.time{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 100%;
+	font-size: 4em;
+	position: fixed;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
